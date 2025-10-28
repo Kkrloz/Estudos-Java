@@ -1,4 +1,5 @@
 - - -
+# Laço for each
 - Usado como sintaxe opcional e simplificada para percorrer arrays.
 
 **Sintaxe**:
